@@ -1,6 +1,6 @@
 # Easy Chatter
 
-Windows app for writing replies on social media.
+Windows app for writing replies on social media. It works with your AI provider, on a subscription or an API key.
 
 ## Install
 
