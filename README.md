@@ -1,6 +1,6 @@
 # Easy Chatter
 
-Windows app for writing replies on Patreon, DeviantArt, X, Discord and other sites.
+Windows app for writing replies on social media.
 
 ## Install
 
